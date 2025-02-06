@@ -5,7 +5,7 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ankur1435&label=Profile%20views&color=0e75b6&style=flat" alt="ankur1435" />
-  <img src="https://img.shields.io/github/stars/ankur1435?style=for-the-badge" alt="GitHub Stars" />
+  
 </p>
 
 <p align="left">
