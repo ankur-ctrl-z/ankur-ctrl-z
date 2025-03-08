@@ -91,11 +91,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankur1435&show_icons=true&locale=en" alt="ankur1435" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankur1435" alt="ankur1435" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankur1435&show_icons=true&locale=en" alt="ankur1435" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankur1435" alt="ankur1435" width="45%" />
 </p>
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur1435&show_icons=true&locale=en&layout=compact" alt="ankur1435" width="35%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur1435&show_icons=true&locale=en&layout=compact" alt="ankur1435" width="80%" />
 </p>
 
 
