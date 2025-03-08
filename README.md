@@ -20,7 +20,7 @@
 - 💻 **Tech Stack:** MERN Stack, Next.js, CI/CD, Docker & Kubernetes  
 - 📖 **DSA Enthusiast:** Solved 120+ problems on LeetCode and always up for a coding challenge  
 - 💬 **Ask me about:** React.js, MongoDB, Data Structures & Algorithms (DSA), Deployment Strategies  
-- ⚡ **Fun fact:** "I debug my code more than I write it—turns out, problem-solving is the real skill!"  
+- ⚡ **Fun fact:** I debug my code more than I write it—turns out, problem-solving is the real skill!  
 
 
 ---
@@ -39,6 +39,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
+
+
 ---
 
 ### 🛠️ Languages and Tools
@@ -93,7 +95,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankur1435" alt="ankur1435" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur1435&show_icons=true&locale=en&layout=compact" alt="ankur1435" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur1435&show_icons=true&locale=en&layout=compact" alt="ankur1435" width="35%"/>
 </p>
 
 
