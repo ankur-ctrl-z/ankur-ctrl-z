@@ -96,8 +96,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur1435&show_icons=true&locale=en&layout=compact" alt="ankur1435" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur1435&show_icons=true&locale=en&layout=compact" alt="ankur1435" width="30%" />
 </p>
+
 
 
 
