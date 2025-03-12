@@ -113,14 +113,14 @@
 ---
 
 ### 📈 Achievements
+- 🔧 Hands-on experience with full-stack development, from frontend to backend.
 - 🚀 Successfully delivered projects with high client satisfaction.  
 - 💼 Built the public face of Unarrow Digital Solutions from the ground up.  
-- 🏆 Strong command over **Data Structures and Algorithms (DSA)** and **DevOps** principles.  
-- 🌟 Earned recognition with multiple **stars** on GitHub projects.  
+- 🏆 Strong command over **Data Structures and Algorithms (DSA)** and **DevOps** principles.   
 
 ---
 
-✨ **Turning code into captivating experiences one project at a time!** 🚀
+🔹 **Crafting seamless digital solutions with code and creativity!** 🔹
 
 
 
