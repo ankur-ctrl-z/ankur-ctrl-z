@@ -104,10 +104,11 @@
 
 ---
 
-### 🌟 Fun Projects
-- 🌐 **[Journey on Wheel](https://journeyonwheel.com):** MERN stack-based car travel services website with destination packages.  
+### 🌟 Fun Projects  
+- 🌐 **[One Touch Agency](https://www.onetouchagency.com/):** An event management company website designed to showcase services and manage event bookings.  
 - 🌐 **[SJA Care Center](https://sjacarecenter.com):** A chiropractic and massage therapy website with animations and appointment booking.  
-- 🌐 **[Unarrow Digital Solutions](https://unarrowdigital.com):** Designed and developed the entire website from scratch for this digital agency.  
+- 🌐 **[Unarrow Digital Solutions](https://unarrowdigital.com):** A digital marketing agency website with a sleek design, service pages, and a user-friendly experience.  
+
 
 ---
 
