@@ -1,11 +1,10 @@
 <h1 align="center">Namaste 🙏, I'm Ankur Sharma</h1>
 <h3 align="center">✨ Building impactful digital experiences that captivate and inspire 🌐🚀</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/th/id/OGC.cd59d626dc86397fe45080e6e9c7027d?  pid=1.7&rurl=https%3a%2f%2fraw.githubusercontent.com%2frajpratyush%2frajpratyush%2fmaster%2fme_1.gif&ehk=oG2vXwTSaZIg9NZoXv0p%2fLssmtWjr1PzHiL0t82B0rs%3d"/>
- 
+<img align="right" alt="Coding" width="400" src="https://www.bing.com/th/id/OGC.8b35fef55fba1a201c9c7a11d3ec3d64?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f416610%2fscreenshots%2f4801105%2fcoding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif&ehk=jHHFsQPazqDd5nt3QW7%2b0gX0qLiQLNMcv%2fxeuKivQCs%3d" />
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ankur1435&label=Profile%20views&color=0e75b6&style=flat" alt="ankur1435" /> 
-  
 </p>
 
 <p align="left">
@@ -15,6 +14,7 @@
 </p>
 
 ---
+
 ### 🚀 About Me  
 - 🌱 **Currently Exploring:** Cloud Computing, DevOps, and Scalable Web Architectures  
 - 💻 **Tech Stack:** MERN Stack, Next.js, CI/CD, Docker & Kubernetes  
@@ -22,70 +22,68 @@
 - 💬 **Ask me about:** React.js, MongoDB, Data Structures & Algorithms (DSA), Deployment Strategies  
 - ⚡ **Fun fact:** I debug my code more than I write it—turns out, problem-solving is the real skill!  
 
-
 ---
+
 ### 🌐 Connect with Me  
 <p align="left">
   <a href="mailto:ankur143513@gmail.com">
     <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/__ankur01__" target="blank">
+  <a href="https://twitter.com/__ankur01__" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/ankur-sharma-profile" target="blank">
+  <a href="https://linkedin.com/in/ankur-sharma-profile" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/Q65Dt9AN" target="blank">
+  <a href="https://discord.gg/Q65Dt9AN" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
-
 
 ---
 
 ### 🛠️ Languages and Tools
 <p align="left">
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.java.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://nextjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40" />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
   </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <a href="https://nodejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <a href="https://expressjs.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   </a>
-  <a href="https://docker.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
   </a>
-  <a href="https://nginx.org/" target="_blank" rel="noreferrer">
+  <a href="https://nginx.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" />
   </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub Actions" width="40" height="40" />
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" />
   </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" />
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40" />
   </a>
 </p>
-
 
 ---
 
@@ -99,9 +97,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankur1435&show_icons=true&locale=en&layout=compact" alt="ankur1435" width="32%" />
 </p>
 
-
-
-
 ---
 
 ### 🌟 Fun Projects  
@@ -109,18 +104,19 @@
 - 🌐 **[SJA Care Center](https://sjacarecenter.com):** A chiropractic and massage therapy website with animations and appointment booking.  
 - 🌐 **[Unarrow Digital Solutions](https://unarrowdigital.com):** A digital marketing agency website with a sleek design, service pages, and a user-friendly experience.  
 
-
 ---
 
 ### 📈 Achievements
-- 🔧 Hands-on experience with full-stack development, from frontend to backend.
+- 🔧 Hands-on experience with full-stack development, from frontend to backend.  
 - 🚀 Successfully delivered projects with high client satisfaction.  
 - 💼 Built the public face of Unarrow Digital Solutions from the ground up.  
-- 🏆 Strong command over **Data Structures and Algorithms (DSA)** and **DevOps** principles.   
+- 🏆 Strong command over **Data Structures and Algorithms (DSA)** and **DevOps** principles.  
 
 ---
 
 🔹 **Crafting seamless digital solutions with code and creativity!** 🔹
+
+
 
 
 
