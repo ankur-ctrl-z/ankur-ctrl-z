@@ -1,6 +1,6 @@
 <h1 align="center">Namaste 🙏, I'm Ankur Sharma</h1>
 <h3 align="center">✨ Building impactful digital experiences that captivate and inspire 🌐🚀</h3>
-
+ 
 <!-- New GIF from IconScout -->
 <img align="right" alt="Coding" width="400" src="https://lottie.host/5f19f01e-e6e1-4020-8504-2c56d6cb9914/9XxR5FS90U.json" />
 
