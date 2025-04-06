@@ -2,7 +2,7 @@
 <h3 align="center">✨ Building impactful digital experiences that captivate and inspire 🌐🚀</h3>
  
 <!-- New GIF from IconScout -->
-<img align="right" alt="Coding" width="400" src="https://lottie.host/5f19f01e-e6e1-4020-8504-2c56d6cb9914/9XxR5FS90U.json" />
+<img align="right" alt="Coding" width="400" src="https://github.com/ankur1435/ankur1435/blob/main/Coding-ezgif.com-video-to-gif-converter.gif" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ankur1435&label=Profile%20views&color=0e75b6&style=flat" alt="ankur1435" /> 
