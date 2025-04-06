@@ -1,7 +1,8 @@
 <h1 align="center">Namaste 🙏, I'm Ankur Sharma</h1>
 <h3 align="center">✨ Building impactful digital experiences that captivate and inspire 🌐🚀</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/th/id/OGC.8b35fef55fba1a201c9c7a11d3ec3d64?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f416610%2fscreenshots%2f4801105%2fcoding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif&ehk=jHHFsQPazqDd5nt3QW7%2b0gX0qLiQLNMcv%2fxeuKivQCs%3d" />
+<!-- New GIF from IconScout -->
+<img align="right" alt="Coding" width="400" src="https://lottie.host/5f19f01e-e6e1-4020-8504-2c56d6cb9914/9XxR5FS90U.json" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ankur1435&label=Profile%20views&color=0e75b6&style=flat" alt="ankur1435" /> 
@@ -75,7 +76,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" />
   </a>
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
   </a>
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" />
@@ -100,21 +101,22 @@
 ---
 
 ### 🌟 Fun Projects  
-- 🌐 **[One Touch Agency](https://www.onetouchagency.com/):** An event management company website designed to showcase services and manage event bookings.  
-- 🌐 **[SJA Care Center](https://sjacarecenter.com):** A chiropractic and massage therapy website with animations and appointment booking.  
-- 🌐 **[Unarrow Digital Solutions](https://unarrowdigital.com):** A digital marketing agency website with a sleek design, service pages, and a user-friendly experience.  
+- 🌐 **[One Touch Agency](https://www.onetouchagency.com/):** Event management website  
+- 🌐 **[SJA Care Center](https://sjacarecenter.com):** Chiropractic & massage therapy site  
+- 🌐 **[Unarrow Digital Solutions](https://unarrowdigital.com):** Marketing agency platform  
 
 ---
 
 ### 📈 Achievements
-- 🔧 Hands-on experience with full-stack development, from frontend to backend.  
-- 🚀 Successfully delivered projects with high client satisfaction.  
-- 💼 Built the public face of Unarrow Digital Solutions from the ground up.  
-- 🏆 Strong command over **Data Structures and Algorithms (DSA)** and **DevOps** principles.  
+- 🔧 Full-stack projects from scratch  
+- 🚀 Cloud deployments using CI/CD  
+- 💼 Created brand identity for Unarrow  
+- 🏆 DSA + DevOps ninja-in-progress 😎  
 
 ---
 
 🔹 **Crafting seamless digital solutions with code and creativity!** 🔹
+
 
 
 
