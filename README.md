@@ -1,4 +1,4 @@
-<h1 align="center">Namaste 🙏, I'm Ankur Sharma</h1>
+<h1 align="center">Namaste 🙏, I'm Ankur Sharma</h1> 
 <h3 align="center">✨ Building impactful digital experiences that captivate and inspire 🌐🚀</h3>
  
 <!-- New GIF from IconScout -->
