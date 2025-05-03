@@ -20,7 +20,7 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ankur1435&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ankur1435&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 </br>
 
