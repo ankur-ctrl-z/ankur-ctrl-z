@@ -18,12 +18,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankur1435&theme=radical&hide_border=false&layout=compact&card_width=400&langs_count=6"/>
 </div>
 
-
-
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ankur1435&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ankur1435&icon=2&color=2)](https://visitcount.itsvg.in)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankur1435/ankur1435/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankur1435/ankur1435/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
