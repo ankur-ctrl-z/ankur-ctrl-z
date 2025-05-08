@@ -1,4 +1,4 @@
-<h1 align="center">Namaste 🙏, I'm Ankur Sharma</h1> 
+<h1 align="center">Namaste 🙏, I'm Ankur Sharma</h1>  
 
 ## 💫 About Me:
 
