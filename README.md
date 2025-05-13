@@ -24,9 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankur1435&theme=radical&hide_border=false&layout=compact&card_width=400&langs_count=6"/>
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ankur1435&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 </br>
 
 ##
