@@ -16,7 +16,7 @@
       </p>
     </td>
     <td style="vertical-align: top; width: 40%;">
-      <img src="https://media1.tenor.com/m/uwdvcjTWrVMAAAAC/coding-boy-coding.gif" width="350px" height="300px">
+      <img src="https://media1.tenor.com/m/uwdvcjTWrVMAAAAC/coding-boy-coding.gif" width="380px" height="300px">
     </td>
   </tr>
 </table>
