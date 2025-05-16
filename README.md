@@ -1,22 +1,27 @@
-<h1 align="center">Namaste 🙏, I'm Ankur Sharma</h1>
+<h1 align="center" style="border-bottom: none; text-decoration: none; margin-bottom: 20px;">
+  Namaste 🙏, I'm Ankur Sharma
+</h1>
 
-<table>
+
+<table width="900px" style="border-collapse: collapse;">
   <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
+    <td style="vertical-align: top; padding-right: 40px; width: 60%;">
       <h2>💫 About Me:</h2>
       <p>
-        🛠 I’m currently working on Next.js projects<br>
-        🤝 I’m looking to collaborate on web development<br>
-        🌱 I’m currently learning DSA & backend development<br>
-        💬 Ask me about Java, APIs, Next.js<br>
-        ⚡ Fun fact: I enjoy debugging more than coding sometimes!
+        <strong>🛠 I’m currently working on Next.js projects</strong><br>
+        <strong>🤝 I’m looking to collaborate on web development</strong><br>
+        <strong>🌱 I’m currently learning DSA & backend development</strong><br>
+        <strong>💬 Ask me about Java, APIs, Next.js</strong><br>
+        <strong>⚡ Fun fact: I enjoy debugging more than coding sometimes!</strong>
       </p>
     </td>
-    <td style="vertical-align: top;">
+    <td style="vertical-align: top; width: 40%;">
       <img src="https://media1.tenor.com/m/uwdvcjTWrVMAAAAC/coding-boy-coding.gif" width="350px" height="300px">
     </td>
   </tr>
 </table>
+
+
 
 
 
