@@ -1,23 +1,24 @@
-<h1 align="center">Namaste 🙏, I'm Ankur Sharma</h1>   
- 
+<h1 align="center">Namaste 🙏, I'm Ankur Sharma</h1>
+
 <table>
   <tr>
-    <td>
-
-## 💫 About Me:
-
-🛠 I’m currently working on Next.js projects  
-🤝 I’m looking to collaborate on web development  
-🌱 I’m currently learning DSA & backend development  
-💬 Ask me about Java, APIs, Next.js  
-⚡ Fun fact: I enjoy debugging more than coding sometimes!
-
-</td>
-<td>
-  <img src="https://media1.tenor.com/m/uwdvcjTWrVMAAAAC/coding-boy-coding.gif" width="350px" height="300px"/>
-</td>
+    <td style="vertical-align: top; padding-right: 20px;">
+      <h2>💫 About Me:</h2>
+      <p>
+        🛠 I’m currently working on Next.js projects<br>
+        🤝 I’m looking to collaborate on web development<br>
+        🌱 I’m currently learning DSA & backend development<br>
+        💬 Ask me about Java, APIs, Next.js<br>
+        ⚡ Fun fact: I enjoy debugging more than coding sometimes!
+      </p>
+    </td>
+    <td style="vertical-align: top;">
+      <img src="https://media1.tenor.com/m/uwdvcjTWrVMAAAAC/coding-boy-coding.gif" width="350px" height="300px">
+    </td>
   </tr>
 </table>
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__ankur01__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankur-sharma-3a6037226/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/ankur143513/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/__ankur01__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankur143513@gmail.com) 
