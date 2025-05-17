@@ -32,10 +32,10 @@
 ## 📊 GitHub Stats:
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <!-- GitHub Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ankur-Ctrl-z&theme=radical&hide_border=false" width=420"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ankur-ctrl-z&theme=radical&hide_border=false" width=420"/>
 
   <!-- Top Languages with limited height -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur-Ctrl-z&theme=radical&hide_border=false&layout=compact&card_width=400&langs_count=6"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankur-ctrl-z&theme=radical&hide_border=false&layout=compact&card_width=400&langs_count=6"/>
 </div>
 
 </br>
