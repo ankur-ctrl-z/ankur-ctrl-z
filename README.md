@@ -4,7 +4,7 @@
  
 <table width="900px" style="border-collapse: collapse;"> 
   <tr>  
-    <td style="vertical-align: top; padding-right: 40px; width: 80%;">
+    <td style="vertical-align: top; padding-right: 40px; width: 80%;"> 
       <h2>💫 About Me:</h2> 
       <p>
         <strong>🛠 I’m currently working on Next.js projects</strong><br>
