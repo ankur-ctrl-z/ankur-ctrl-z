@@ -1,7 +1,7 @@
 <h1 align="center" style="border: none; margin-bottom: 10px; padding-bottom: 0;">
   Namaste 🙏, I'm Ankur Sharma
 </h1>  
- 
+  
 <table width="900px" style="border-collapse: collapse;">  
   <tr>   
     <td style="vertical-align: top; padding-right: 40px; width: 80%;"> 
