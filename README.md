@@ -1,6 +1,13 @@
-<h1 align="center" style="border: none; margin-bottom: 10px; padding-bottom: 0;">
+<!-- <h1 align="center" style="border: none; margin-bottom: 10px; padding-bottom: 0;">
   Namaste 🙏, I'm Ankur Sharma 
-</h1>     
+</h1>      -->
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2500&pause=500&color=gradient&center=true&multiline=true&repeat=false&width=800&height=120&lines=Namaste%2C+I'm+Ankur!;A+curious+Homo+sapiens%2C+chasing+bugs+and+goals.&colors=FF512F,DD2476" alt="Typing SVG"/>
+  </a>
+</div>
+
    
 <table width="900px" style="border-collapse: collapse;">  
   <tr>   
