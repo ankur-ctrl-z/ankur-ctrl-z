@@ -34,7 +34,6 @@
 ## 🌐 Socials:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/__ankur01__/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ankur-sharma-3a6037226/)
-[![Pinterest](https://skillicons.dev/icons?i=pinterest)](https://in.pinterest.com/ankur143513/)
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/__ankur01__)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ankur143513@gmail.com)
 
