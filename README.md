@@ -32,7 +32,12 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__ankur01__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankur-sharma-3a6037226/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/ankur143513/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/__ankur01__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankur143513@gmail.com) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/__ankur01__/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ankur-sharma-3a6037226/)
+[![Pinterest](https://skillicons.dev/icons?i=pinterest)](https://in.pinterest.com/ankur143513/)
+[![X](https://skillicons.dev/icons?i=twitter)](https://x.com/__ankur01__)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ankur143513@gmail.com)
+
 
 ## 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=cpp,css,html,java,js,python,ts,cloudflare,vercel,netlify,bun,bootstrap,next,nodejs,react,redux,tailwind,wordpress,nginx,mongodb,postgres,mysql,prisma,git,github,githubactions,docker,jira,notion,postman,figma,vite,express,rollup,contextapi,socketio,strapi)
