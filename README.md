@@ -1,31 +1,14 @@
-<!-- <h1 align="center" style="border: none; margin-bottom: 10px; padding-bottom: 0;">
-  Namaste 🙏, I'm Ankur Sharma 
-</h1>      -->
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2500&pause=500&color=gradient&center=true&multiline=true&repeat=false&width=800&height=120&lines=Namaste%2C+I'm+Ankur!;A+curious+Homo+sapiens%2C+chasing+bugs+and+goals.&colors=FF512F,DD2476" alt="Typing SVG"/>
-  </a>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=36&duration=2500&pause=500&color=FF0000&center=true&multiline=false&repeat=false&width=640&height=90&lines=Namaste🙏🏻,+I'm+Ankur!"
+    alt="Typing SVG"
+  />
 </div>
 
+
+
    
-<table width="900px" style="border-collapse: collapse;">  
-  <tr>   
-    <td style="vertical-align: top; padding-right: 40px; width: 80%;"> 
-      <h2>💫 About Me:</h2> 
-      <p>
-        <strong>🛠 I’m currently working on Next.js projects</strong><br>
-        <strong>🤝 I’m looking to collaborate on web development</strong><br>
-        <strong>🌱 I’m currently learning DSA & backend development</strong><br>
-        <strong>💬 Ask me about Java, APIs, Next.js</strong><br>
-        <strong>⚡ Fun fact: I enjoy debugging more than coding sometimes!</strong>
-      </p>
-    </td>
-    <td style="vertical-align: top; width: 40%;">
-      <img src="https://media1.tenor.com/m/uwdvcjTWrVMAAAAC/coding-boy-coding.gif" width="400px" height="320px">
-    </td>
-  </tr>
-</table>
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fankur-ctrl-z7502a.png?alt=media)
 
 
 
@@ -41,23 +24,21 @@
 ## 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=cpp,css,html,java,js,python,ts,cloudflare,vercel,netlify,bun,bootstrap,next,nodejs,react,redux,tailwind,wordpress,nginx,mongodb,postgres,mysql,prisma,git,github,githubactions,docker,notion,postman,figma,vite,express,rollup,contextapi,socketio,strapi)
 
-## 📊 GitHub Stats:
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+
+<!-- <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <!-- GitHub Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ankur-ctrl-z&theme=radical&hide_border=false" width=420"/>
 
   <!-- Top Languages with limited height -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankur-ctrl-z&theme=radical&hide_border=false&layout=compact&card_width=400&langs_count=6"/>
-</div>
+
 
 </br>
 
 ##
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankur1435/ankur1435/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankur1435/ankur1435/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+</picture> -->
 
 
 
