@@ -5,7 +5,7 @@
   />
 </div>
    
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fankur-ctrl-z39c87.png?alt=media)
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fankur-ctrl-z58823.png?alt=media)
 
 ## 🌐 Socials:
 [![Instagram](https://skillicons.dev/icons?i=instagram&size=30)](https://www.instagram.com/__ankur01__/)
