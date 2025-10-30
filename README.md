@@ -15,10 +15,7 @@
 
 ## 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=cpp,css,html,java,js,python,ts,cloudflare,vercel,netlify,bootstrap,next,nodejs,react,tailwind,nginx,mongodb,postgres,mysql,prisma,git,github,githubactions,docker,notion,postman,figma,vite,express,rollup,contextapi,socketio)
-
 </br>
-
-##
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankur1435/ankur1435/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankur1435/ankur1435/output/github-snake.svg" />
