@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=36&duration=2500&pause=500&color=FF0000&center=true&multiline=false&repeat=false&width=640&height=90&lines=Namaste🙏🏻,+I'm+Ankur!"
     alt="Typing SVG"
