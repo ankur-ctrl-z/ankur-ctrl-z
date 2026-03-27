@@ -6,12 +6,10 @@
 </div>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/__ankur01____?style=social)](https://x.com/__ankur01__)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ankur-sharma-3a6037226/)
-![GitHub followers](https://img.shields.io/github/followers/ankur-ctrl-z?style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ankur-sharma-3a6037226/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=social&logo=vercel)](https://ankurwork.vercel.app/)
 
 ---
-
-🔗 **Portfolio:** https://ankurwork.vercel.app/
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif" />
