@@ -6,8 +6,12 @@
 </div>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/__ankur01____?style=social)](https://x.com/__ankur01__)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ankur-sharma-3a6037226/)
-[![GitHub followers](https://img.shields.io/github/followers/ankur-ctrl-z?style=social)](https://github.com/ankur-ctrl-z)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ankur-sharma-3a6037226/)
+![GitHub followers](https://img.shields.io/github/followers/ankur-ctrl-z?style=social)
+
+---
+
+🔗 **Portfolio:** https://ankurwork.vercel.app/
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif" />
@@ -34,25 +38,44 @@ I am very keen to learn new technologies and use them to either create something
 
 ## 📊 Coding Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ankur_codes?theme=dark&font=baloo&ext=contest)
-
-![GeeksforGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=ankurcodes01)
+<table>
+  <tr>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/ankur_codes?theme=dark&font=baloo&ext=contest" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=ankur-ctrl-z&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🔥 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ankur-ctrl-z&theme=dark)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankur-ctrl-z&theme=react-dark)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankur-ctrl-z&theme=react-dark" />
 
 ---
 
 ## 📫 Connect with me
 
-[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/in/ankur-sharma-3a6037226/)
-[<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="48" width="48">](https://twitter.com/__ankur01__)
-[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://leetcode.com/u/ankur_codes/)
-[<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.geeksforgeeks.org/profile/ankurcodes01)
-[<img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" height="48" width="48">](mailto:ankur.code.dev@gmail.com)
-[<img src="https://user-images.githubusercontent.com/39955420/147572858-093e11d5-c974-43de-9795-f328d4cda097.png" height="48" width="48">](https://www.instagram.com/__ankur01__)
+<p align="left">
+  <a href="https://www.linkedin.com/in/ankur-sharma-3a6037226/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://twitter.com/__ankur01__">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
+  <a href="https://leetcode.com/u/ankur_codes/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/ankurcodes01">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="40" />
+  </a>
+  <a href="https://ankurwork.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" height="40" />
+  </a>
+  <a href="mailto:ankur.code.dev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
