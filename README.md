@@ -22,7 +22,7 @@
 I am Ankur Sharma, worked as a Software Developer at Unarrow Digital Solutions.  
 I am very keen to learn new technologies and use them to either create something useful or improve existing software.
 
-⚡ Fun fact: I love to connect with people and learn about their journey, it helps me open up my mind to different perspectives.  
+🧠 Mindset: I love connecting with people and learning from their journeys. It helps me understand different perspectives.
 
 💬 Ask me anything, I will be more than happy to help.
 
