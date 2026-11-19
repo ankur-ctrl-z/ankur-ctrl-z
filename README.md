@@ -19,7 +19,7 @@
 
 ## About me
 
-I am Ankur Sharma, worked as a Software Developer at Unarrow Digital Solutions.  
+I am Ankur Sharma, working as a Software Developer at Indaksh Solutions.  
 I am very keen to learn new technologies and use them to either create something useful or improve existing software.
 
 🧠 Mindset: I love connecting with people and learning from their journeys. It helps me understand different perspectives.
